@@ -1,6 +1,6 @@
 # Computer Science and Engineering
 
-- [DSA](dsa)
+- [Data Structure & Algorithm](dsa)
 - [Machine Learning](ml)
 - [Networking](networking)
 - [Software Engineering](se)
