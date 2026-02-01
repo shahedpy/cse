@@ -1,3 +1,3 @@
-# Computer science and engineering
+# Computer Science and Engineering
 
 - [Machine Learning](ml)
