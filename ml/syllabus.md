@@ -1,4 +1,5 @@
 # Machine Learning
+
 - Introductory Class, Introduction to Machine Learning, application of machine learning, Machine learning for predictive data analytics: Data to insights to decisions, ill-pose problem, overfitting, underfitting
 - Concept Learning and the learning as search, General to specific ordering hypothesis, Finding a maximally specific hypothesis
 - Handling Missing Data, Outliers, and Imbalanced Data, Feature Scaling: Normalization & Standardization, Encoding Categorical Variables: One-Hot, Label Encoding
