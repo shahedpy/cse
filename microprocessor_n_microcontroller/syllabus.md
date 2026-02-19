@@ -1,6 +1,6 @@
 # Microprocessor & Microcontroller
 
-- Overview of the course, Introduction to the 8086 microprocessors, the 8051 Microcontrollers: 8051 assembly language programming
+- Introduction to the 8086 microprocessors, the 8051 Microcontrollers: 8051 assembly language programming
 - Internal architecture of 8086 microprocessor, real & protected mode addressing, physical address calculation both real and protected mode operation of microprocessor
 - Different data addressing mode operation of 8086 based microprocessors, data movement instructions (machine language to assembly & assembly to machine conversion) for 16-bit and 32-bit
 - 8086 based assembly language: arithmetic and logic instructions, flow control operation (IF-ELSE, Loop)
