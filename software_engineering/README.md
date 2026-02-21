@@ -159,4 +159,7 @@ the architecture design phase, guiding how modules will later be tested together
 - The V-shaped model should be used for small to medium sized projects where requirements are clearly defined and fixed.
 - The V-Shaped model should be chosen when ample technical resources are available with needed technical expertise.
 
+### Incremental Model
 
+> The incremental model delivers a series of releases, called increments, that provide progressively more functionality for the customer as each increment is delivered. Multiple development cycles take place here, making the life cycle a “multi-waterfall” cycle. Rather than deliver the system as a single delivery, the development and
+delivery is broken down into increments with each increment delivering part of the required functionality. User requirements are prioritized and the highest priority requirements are included in early increments.
