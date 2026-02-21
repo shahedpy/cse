@@ -40,10 +40,21 @@ Erroneous beliefs about software and the process that is used to build it.
 
 ### Management myths
 
-**Myth:** If we get behind schedule, we can add more programmers and catch up ( “Mongolian horde” concept).
+**Myth:** If we get behind schedule, we can add more programmers and catch up ( “Mongolian horde” concept).  
 **Reality:**
 - Software development is not a mechanistic process like manufacturing.
 - In the words of Brooks “adding people to a late software project makes it later.” At first, this statement may seem counterintuitive.
 - However, as new people are added, people who were working must spend time educating the newcomers, thereby reducing the amount of time spent on productive development effort.
 - People can be added but only in a planned and well-coordinated manner.
 
+### Customer myths
+
+**Myth:** A general statement of objectives is sufficient to begin writing programs—we can fill in the details later.  
+**Reality:
+- Although a comprehensive and stable statement of requirements is not always possible, an ambiguous “statement of objectives” is a recipe for disaster.
+- Unambiguous requirements (usually derived iteratively) are developed only through effective and continuous communication between customer and developer.
+
+### Practitioner’s myths
+
+**Myth:** Once we write the program and get it to work, our job is done.
+**Reality:** Industry data indicate that between 60 and 80 percent of all effort expended on software will be expended after it is delivered to the customer for the first time.
