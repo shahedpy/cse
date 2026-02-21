@@ -32,7 +32,7 @@ responsibility. Some of these are:
 
 ## Software Development Myths
 
-Erroneous beliefs about software and the process that is used to build it.
+> Erroneous beliefs about software and the process that is used to build it.
 
 - Management myths
 - Customer myths
@@ -62,6 +62,10 @@ Erroneous beliefs about software and the process that is used to build it.
 
 ## Software Process Models
 
+### Waterfall Model
+
+> The waterfall model is the oldest paradigm for software engineering. The waterfall model, sometimes called the classic life cycle, suggests a systematic, sequential approach to software development that begins with customer specification of requirements and progresses through planning, modeling, construction, and deployment, providing ongoing support of the completed software.
+
 <div align="center">
 
   <img src ="images/waterfall.png" width="500px" />
@@ -69,4 +73,46 @@ Erroneous beliefs about software and the process that is used to build it.
   <p><b>Figure:</b> Waterfall Model</p>
   
 </div>
+
+#### Waterfall Methodology can be used when:
+
+- This model is used only when the requirements are very well known, clear and fixed.
+- Requirements are not changing frequently
+- Application is not complicated and big
+- Project is short
+- Environment is stable
+- Technology and tools used are not dynamic and is stable
+- Resources are available and trained
+
+#### Advantages of Waterfall Model:
+
+- This model is simple and easy to understand and use.
+- It is easy to manage due to the rigidity of the model – each phase has specific deliverables and a review process.
+- In this model phases are processed and completed one at a time.
+- Phases do not overlap.
+- Waterfall model works well for smaller projects where requirements are very well understood.
+
+#### Disadvantages of Waterfall Model:
+
+- Once an application is in the testing stage, it is very difficult to go back and change something that was not well-thought out in the concept stage.
+- No working software is produced until late during the life cycle.
+- High amounts of risk and uncertainty.
+- Not a good model for complex and object-oriented projects.
+- Poor model for long and ongoing projects.
+- Not suitable for the projects where requirements are at a moderate to high risk of changing.
+
+#### Problem with Waterfall Model:
+
+> The problems that are sometimes encountered when the waterfall model is applied are:
+- Real projects rarely follow the sequential flow that the model proposes.
+- It is often difficult for the customer to state all requirements explicitly.
+- The customer must have patience. A working version of the software will not be available until late in the project time span.
+
+### V Model
+
+> The costs of fixing a defect increase across the development lifecycle. The earlier in life cycle a defect is detected, the cheaper it is to fix it. To address this concern, the V model of testing was developed where for every phase, in the Development life cycle there is a corresponding Testing phase.
+
+
+
+
 
