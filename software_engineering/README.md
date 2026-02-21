@@ -8,3 +8,18 @@ Software is the product with the set of instructions, programs used to operate t
 
 The older programs which are developed decades ago that are still in use by performing modifications in order to meet the business requirements. The rapid increase of such systems may cause the risk to the larger organizations as they may require outdated hardware and operating system.  
 
+### Who uses Legacy Software?
+
+Here are some companies that may use legacy software:
+
+1. **Background checking organizations:** Industries that perform background checks, like law enforcement and human resources (HR), may use legacy software due to the high volume of information and the complexity of the background checking system. Transferring the information to a newer system is challenging for organizations since data loss is risky.
+2. **Banks:** It's common for banks to use legacy software since they handle accounts and transactions over long periods. They may use outdated software to ensure their accounts and transactions remain unchanged.
+3. **Retail:** Companies in the retail industry may use legacy software so that they don't have to update all of their sales terminals. For example, if a grocery store uses older cash registers, it may cost less to repair them than to buy new ones for the entire store.
+
+## Software Engineering Ethics
+
+- Like other engineering disciplines, software engineering is carried out within a social and legal framework that limits the freedom of people working in that area.
+- As a software engineer, you must accept that your job involves wider responsibilities than simply the application of technical skills.
+- You must also behave in an ethical and morally responsible way if you are to be respected as a professional engineer.
+- It goes without saying that you should uphold normal standards of honesty and integrity. You should not use your skills and abilities to behave in a dishonest way or in a way that will bring disrepute to the software engineering profession.
+
