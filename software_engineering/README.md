@@ -22,4 +22,11 @@ Here are some companies that may use legacy software:
 - As a software engineer, you must accept that your job involves wider responsibilities than simply the application of technical skills.
 - You must also behave in an ethical and morally responsible way if you are to be respected as a professional engineer.
 - It goes without saying that you should uphold normal standards of honesty and integrity. You should not use your skills and abilities to behave in a dishonest way or in a way that will bring disrepute to the software engineering profession.
+- However, there are areas where standards of acceptable behavior are not
+bound by laws but by the more tenuous notion of professional
+responsibility. Some of these are:
+  1. **Confidentiality:** You should normally respect the confidentiality of your employers or clients irrespective of whether or not a formal confidentiality agreement has been signed.
+  2. **Competence:** You should not misrepresent your level of competence. You should not knowingly accept work that is outside your competence.
+  3. **Intellectual property rights:** You should be aware of local laws governing the use of intellectual property such as patents and copyright. You should be careful to ensure that the intellectual property of employers and clients is protected.
+  4. **Computer misuse:** You should not use your technical skills to misuse other people’s computers. Computer misuse ranges from relatively trivial (game playing on an employer’s machine) to extremely serious (dissemination of viruses or other malware).
 
