@@ -112,7 +112,51 @@ responsibility. Some of these are:
 
 > The costs of fixing a defect increase across the development lifecycle. The earlier in life cycle a defect is detected, the cheaper it is to fix it. To address this concern, the V model of testing was developed where for every phase, in the Development life cycle there is a corresponding Testing phase.
 
+<div align="center">
 
+  <img src ="images/v-model.png" width="500px" />
 
+  <p><b>Figure:</b> V-Model</p>
+  
+</div>
+
+#### V-Model Verification Phases
+
+> The verification phase refers to the practice of evaluating the product development process to ensure the team meets the specified requirements. The Verification Phase includes several steps: business requirement analysis, system analysis, software architecture design, module design and coding.  
+
+1. **Business Requirement Analysis:** In the business requirement analysis step, the team comes to understand the product requirements as laid out by the customer.
+2. **System Analysis:** In the system analysis step, the system engineers analyze and interpret the business requirements of the proposed system by studying the user
+requirements document.
+3. **Software Architecture Design:** In the software architecture design stage, this involves selecting software structure based on identified modules, their functions, interface relationships, dependencies, and relevant technical elements like database schema and diagrams. Preliminary integration test strategies are also outlined during
+the architecture design phase, guiding how modules will later be tested together.
+4. **Module Design:** In the module design stage, the development team breaks down the system into small modules and specifies the detailed design of each module, which we call low-level design.
+5. **Coding:** Finally, we begin coding. The development team selects a suitable programming language based on the design and product requirements. There are, of course, guidelines and standards for coding. The code undergoes multiple reviews to verify logic, performance, security and compliance with coding standards.
+
+#### V-Model Validation Phases
+
+> The validation phase involves dynamic analysis methods and testing to ensure the software product meets the customer’s requirements and expectations. This phase includes several stages including unit testing, integration testing, system testing and acceptance testing.
+
+1. **Unit Testing:** During the unit testing stage, the team develops and executes unit test plans to identify errors at the code or unit level. This testing happens on the smallest entities, such as program modules, to ensure they function correctly when isolated from the rest of the code.
+2. **Integration Testing:** The integration testing stage involves executing integration test plans developed during the architectural design step in order to verify that groups created and tested independently can coexist and communicate with each other.
+3. **System Testing:** The system testing stage involves executing system test plans developed during the system design step. System test plans are developed by quality assurance (QA) teams using business requirements defined by stakeholders. System testing ensures the team meets the application developer's expectations.
+4. **Acceptance Testing:** The acceptance testing step is related to the business requirement analysis part of the V-model and involves testing the software product in the user environment to identify compatibility issues with the different systems available within the user environment. Acceptance testing also identifies non-functional issues like load and performance defects in the real user environment.
+
+#### Advantages of V-model:
+
+- Simple and easy to use.
+- Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
+- Proactive defect tracking - that is defects are found at early stage.
+- Works well for small projects where requirements are easily understood.
+
+#### Disadvantages of V-model:
+
+- Very rigid and least flexible.
+- Software is developed during the implementation phase, so no early prototypes of the software are produced.
+- If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+
+#### When to use V Model:
+
+- The V-shaped model should be used for small to medium sized projects where requirements are clearly defined and fixed.
+- The V-Shaped model should be chosen when ample technical resources are available with needed technical expertise.
 
 
