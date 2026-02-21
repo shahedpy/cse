@@ -30,3 +30,20 @@ responsibility. Some of these are:
   3. **Intellectual property rights:** You should be aware of local laws governing the use of intellectual property such as patents and copyright. You should be careful to ensure that the intellectual property of employers and clients is protected.
   4. **Computer misuse:** You should not use your technical skills to misuse other people’s computers. Computer misuse ranges from relatively trivial (game playing on an employer’s machine) to extremely serious (dissemination of viruses or other malware).
 
+## Software Development Myths
+
+Erroneous beliefs about software and the process that is used to build it.
+
+- Management myths
+- Customer myths
+- Practitioner’s myths
+
+### Management myths
+
+**Myth:** If we get behind schedule, we can add more programmers and catch up ( “Mongolian horde” concept).
+**Reality:**
+- Software development is not a mechanistic process like manufacturing.
+- In the words of Brooks “adding people to a late software project makes it later.” At first, this statement may seem counterintuitive.
+- However, as new people are added, people who were working must spend time educating the newcomers, thereby reducing the amount of time spent on productive development effort.
+- People can be added but only in a planned and well-coordinated manner.
+
