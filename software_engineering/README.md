@@ -64,7 +64,7 @@ Erroneous beliefs about software and the process that is used to build it.
 
 <div align="center">
 
-  <img src ="images/waterfall.png" width="300px" />
+  <img src ="images/waterfall.png" width="500px" />
 
   <p><b>Figure:</b> Waterfall Model</p>
   
