@@ -58,3 +58,12 @@ Erroneous beliefs about software and the process that is used to build it.
 
 **Myth:** Once we write the program and get it to work, our job is done.
 **Reality:** Industry data indicate that between 60 and 80 percent of all effort expended on software will be expended after it is delivered to the customer for the first time.
+
+<div align="center">
+
+  <img src ="images/waterfall.png" />
+
+  <p><b>Figure:</b> Waterfall Model</p>
+  
+</div>
+
