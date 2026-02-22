@@ -171,3 +171,11 @@ delivery is broken down into increments with each increment delivering part of t
 </div>
 
 
+The phases of the incremental model typically include:
+- **Requirements Gathering:** In this initial phase, the high-level requirements for the software are gathered and analyzed. These requirements serve as a foundation for the subsequent phases.
+- **Design:** Based on the gathered requirements, the software's architecture, design, and user interfaces are planned and developed. The design is often divided into smaller segments to ensure a focused and organized development process.
+- **Implementation:** Each increment involves implementing a portion of the software's functionality. Developers work on adding features, modules, or components that were planned in the design phase. This incremental approach allows for quicker delivery of usable software.
+- **Testing:** As each increment is completed, testing is carried out to ensure that the new features work as expected and do not negatively impact the existing functionality. This ongoing testing helps catch and address issues early in the development process.
+- **Integration:** In this phase, the newly developed increments are integrated into the existing software. This can involve merging code, resolving conflicts, and ensuring that all components work together smoothly.
+- **Evaluation and Feedback:** After each increment, stakeholders review the functionality added and provide feedback. This feedback can be used to refine the requirements, design, and implementation of subsequent increments.
+- **Iterative Process:** The software development process iterates through the above phases, gradually adding new features and improvements. With each iteration, the software becomes more robust and feature-rich.
