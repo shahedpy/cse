@@ -172,6 +172,7 @@ delivery is broken down into increments with each increment delivering part of t
 
 
 The phases of the incremental model typically include:
+
 - **Requirements Gathering:** In this initial phase, the high-level requirements for the software are gathered and analyzed. These requirements serve as a foundation for the subsequent phases.
 - **Design:** Based on the gathered requirements, the software's architecture, design, and user interfaces are planned and developed. The design is often divided into smaller segments to ensure a focused and organized development process.
 - **Implementation:** Each increment involves implementing a portion of the software's functionality. Developers work on adding features, modules, or components that were planned in the design phase. This incremental approach allows for quicker delivery of usable software.
@@ -179,3 +180,29 @@ The phases of the incremental model typically include:
 - **Integration:** In this phase, the newly developed increments are integrated into the existing software. This can involve merging code, resolving conflicts, and ensuring that all components work together smoothly.
 - **Evaluation and Feedback:** After each increment, stakeholders review the functionality added and provide feedback. This feedback can be used to refine the requirements, design, and implementation of subsequent increments.
 - **Iterative Process:** The software development process iterates through the above phases, gradually adding new features and improvements. With each iteration, the software becomes more robust and feature-rich.
+
+
+#### Advantages of Incremental Model:
+
+- Generates working software quickly and early during the software life cycle.
+- This model is more flexible - less costly to change scope and requirements.
+- It is easier to test and debug during a smaller iteration.
+- In this model customer can respond to each built.
+- Lowers initial delivery cost.
+- Easier to manage risk because risky pieces are identified and handled during it's iteration.
+
+#### Disadvantages of Incremental Model:
+
+- Needs good planning and design.
+- Needs a clear and complete definition of the whole system before it can be broken down and built incrementally.
+- Total cost is higher than waterfall.
+
+#### When Incremental Model is Used:
+
+- Requirements of the system are clearly understood.
+- When demand for an early release of a product arises.
+- When software engineering team are not very well skilled or trained.
+- When high-risk features and goals are involved.
+- Such methodology is more in use for web application and product based companies.
+- A new technology is being used.
+
