@@ -70,7 +70,7 @@ responsibility. Some of these are:
 
   <img src ="images/waterfall.png" width="500px" />
 
-  <p><b>Figure:</b> Waterfall Model</p>
+  <p><b>Fig:</b> Waterfall Model</p>
   
 </div>
 
@@ -116,7 +116,7 @@ responsibility. Some of these are:
 
   <img src ="images/v-model.png" width="500px" />
 
-  <p><b>Figure:</b> V-Model</p>
+  <p><b>Fig:</b> V-Model</p>
   
 </div>
 
@@ -167,8 +167,6 @@ delivery is broken down into increments with each increment delivering part of t
 <div align="center">
 
   <img src ="images/incremental.jpg" width="500px" />
-
-  <p><b>Figure:</b> V-Model</p>
   
 </div>
 
