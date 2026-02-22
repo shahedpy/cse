@@ -206,3 +206,8 @@ The phases of the incremental model typically include:
 - Such methodology is more in use for web application and product based companies.
 - A new technology is being used.
 
+### Agile Methodology
+
+Agile Methodology is a type of project management process. The agile method anticipates change and allows for much more flexibility than traditional methods. Clients can make small objective changes without huge amendments to the budget or schedule.
+Agile methods break tasks into smaller iterations, or parts do not directly involve long term planning. The project scope and requirements are laid down at the beginning of the development process. Plans regarding the number of iterations, the duration and the scope of each iteration are clearly defined in advance. The division of the entire project into smaller parts helps to minimize the project risk and to reduce the overall project delivery time requirements.
+
