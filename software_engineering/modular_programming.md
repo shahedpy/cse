@@ -10,6 +10,8 @@ Cohesion defines to the degree to which the elements of a module belong together
 
 In software engineering, the coupling is the degree of interdependence between software modules. Two modules that are tightly coupled are strongly dependent on each other. However, two modules that are loosely coupled are not dependent on each other. Uncoupled modules have no interdependence at all within them.  
 
+<img alt="module-coupling.png" data-hpc="true" src="https://github.com/shahedpy/cse/blob/main/software_engineering/images/module-coupling.png?raw=true" style="max-width: 100%;">
+
 A good design is the one that has low coupling. Coupling is measured by the number of relations between the modules. That is, the coupling increases as the number of calls between modules increase or the amount of shared data is large. Thus, it can be said that a design with high coupling will have more errors.
 
 ### Difference between Coupling and Cohesion
