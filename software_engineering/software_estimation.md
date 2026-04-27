@@ -57,21 +57,17 @@ The model uses constants derived from software project types and defines three m
 - **Semi-detached**
 - **Embedded**
 
----
-
 ## Estimation Formulas
-E = a(KLOC)^b person-months
-D = c (E)^d months
-P = E/Dpersons
-Productivity = KLOC/E KLOC per Person-month
+- E = a(KLOC)^b person-months
+- D = c (E)^d months
+- P = E/Dpersons
+- Productivity = KLOC/E KLOC per Person-month
 
 Where:
 - \(E\) = effort applied in person-months  
 - \(D\) = development time in months  
 - \(P\) = total number of persons required to accomplish the project  
 - Productivity = how many lines of code a person can write in one month  
-
----
 
 ## Constants for Basic Model
 
@@ -80,8 +76,6 @@ Where:
 | Organic          | 2.4 | 1.05 | 2.5 | 0.38 |
 | Semi-detached    | 3.0 | 1.12 | 2.5 | 0.35 |
 | Embedded         | 3.6 | 1.20 | 2.5 | 0.32 |
-
----
 
 ## Practice Problems
 
