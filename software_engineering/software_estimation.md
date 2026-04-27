@@ -45,7 +45,7 @@ A software project is said to be an **embedded type** if:
 - Needs a larger team size than the other two models.
 
 > Three Types of COCOMO model
-<img alt="Types-of-COCOMO-Models.png" data-hpc="true" src="https://github.com/shahedpy/cse/blob/main/software_engineering/images/Types-of-COCOMO-Models.png?raw=true" height="500px">
+<img alt="Types-of-COCOMO-Models.png" data-hpc="true" src="https://github.com/shahedpy/cse/blob/main/software_engineering/images/Types-of-COCOMO-Models.png?raw=true" height="300px">
 
 # Basic COCOMO Model
 
