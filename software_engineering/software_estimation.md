@@ -44,4 +44,96 @@ A software project is said to be an **embedded type** if:
 - Requires the highest level of complexity, creativity, and experience.
 - Needs a larger team size than the other two models.
 
+> Three Types of COCOMO model
+<img alt="Types-of-COCOMO-Models.png" data-hpc="true" src="https://github.com/shahedpy/cse/blob/main/software_engineering/images/Types-of-COCOMO-Models.png?raw=true" style="max-width: 100%;">
+
+# Basic COCOMO Model
+
+The **Basic COCOMO Model** provides a rough estimate of any project based on the size of the software alone.  
+It is suitable for small to medium-sized projects with straightforward requirements.
+
+The model uses constants derived from software project types and defines three modes of development:
+- **Organic**
+- **Semi-detached**
+- **Embedded**
+
 ---
+
+## Estimation Formulas
+
+
+
+\[
+E = a \cdot (KLOC)^b \quad \text{person-months}
+\]
+
+
+
+
+
+\[
+D = c \cdot (E)^d \quad \text{months}
+\]
+
+
+
+
+
+\[
+P = \frac{E}{D} \quad \text{persons}
+\]
+
+
+
+
+
+\[
+\text{Productivity} = \frac{KLOC}{E} \quad \text{KLOC per Person-month}
+\]
+
+
+
+Where:
+- \(E\) = effort applied in person-months  
+- \(D\) = development time in months  
+- \(P\) = total number of persons required to accomplish the project  
+- Productivity = how many lines of code a person can write in one month  
+
+---
+
+## Constants for Basic Model
+
+| Software Project | a   | b    | c   | d    |
+|------------------|-----|------|-----|------|
+| Organic          | 2.4 | 1.05 | 2.5 | 0.38 |
+| Semi-detached    | 3.0 | 1.12 | 2.5 | 0.35 |
+| Embedded         | 3.6 | 1.20 | 2.5 | 0.32 |
+
+---
+
+## Practice Problems
+
+1. A software project requires **1000 lines of code** for development.  
+   The project is categorized as **organic type**.  
+   Using the basic COCOMO model, calculate:
+   - Estimated effort  
+   - Development time  
+   - Number of persons required  
+   - Productivity  
+
+2. A software system has **1500 lines of code**.  
+   The project is classified as **semi-detached**.  
+   Using the basic COCOMO model, calculate:
+   - Estimated effort  
+   - Development time  
+   - Number of persons required  
+   - Productivity  
+
+3. A company is estimating the effort for a new software system with **2000 lines of code**.  
+   The system is of **embedded type**.  
+   Using the basic COCOMO model, calculate:
+   - Estimated effort  
+   - Development time  
+   - Number of persons required  
+   - Productivity  
+
