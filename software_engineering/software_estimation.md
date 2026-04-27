@@ -60,38 +60,10 @@ The model uses constants derived from software project types and defines three m
 ---
 
 ## Estimation Formulas
-
-
-
-\[
-E = a \cdot (KLOC)^b \quad \text{person-months}
-\]
-
-
-
-
-
-\[
-D = c \cdot (E)^d \quad \text{months}
-\]
-
-
-
-
-
-\[
-P = \frac{E}{D} \quad \text{persons}
-\]
-
-
-
-
-
-\[
-\text{Productivity} = \frac{KLOC}{E} \quad \text{KLOC per Person-month}
-\]
-
-
+E = a(KLOC)^b person-months
+D = c (E)^d months
+P = E/Dpersons
+Productivity = KLOC/E KLOC per Person-month
 
 Where:
 - \(E\) = effort applied in person-months  
