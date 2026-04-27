@@ -16,8 +16,6 @@ The Constructive Cost Model or COCOMO Model estimates the cost for any software 
 
 Software projects under **COCOMO model strategies** are classified into three categories: **Organic**, **Semi-Detached**, and **Embedded**.
 
----
-
 ## Organic
 A software project is said to be an **organic type** if:
 - Project is small and simple.
@@ -26,8 +24,6 @@ A software project is said to be an **organic type** if:
 - Requirements of projects are not rigid.
 
 **Example:** Payroll processing system.
-
----
 
 ## Semi-Detached
 A software project is said to be a **semi-detached type** if:
@@ -40,8 +36,6 @@ A software project is said to be a **semi-detached type** if:
 - Database Management System (DBMS)
 - New unknown operating system
 - Difficult inventory management system
-
----
 
 ## Embedded
 A software project is said to be an **embedded type** if:
